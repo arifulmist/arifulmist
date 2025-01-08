@@ -1,5 +1,11 @@
 # Hi! I am ARIFUL
 - *Education* </br> Studying CSE at the Military Institute of Science and Technology
+- <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/arifulmist/count.svg" />
+</p>
+
+
 - *Interests*
   - Programmer
   - Gamer
