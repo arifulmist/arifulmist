@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left"> 🧑‍💼 Have keen interest on Software Engineering and Product Management.<br>• 🧑‍💻 Currently learning DSA,OOP in java,DBS.<br>• 📮 How to reach me : arifulm926@gmail.com</h3>
+<h3 align="left"> 🧑‍💼 Have keen interest on Software Engineering and Communication and Product Management.<br>• 🧑‍💻 Currently learning DSA,OOP in java,DBS.<br>• 📮 How to reach me : arifulm926@gmail.com</h3>
 
 
 ###
